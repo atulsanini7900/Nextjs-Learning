@@ -1,0 +1,12 @@
+.myul{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+.myul li{
+    margin: 10px;
+    list-style-type: none;
+    font-size: 16px;
+}
+.myul li a{
+    text-decoration: none;
+}
